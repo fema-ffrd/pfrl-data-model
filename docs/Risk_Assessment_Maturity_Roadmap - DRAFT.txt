@@ -1,0 +1,1177 @@
+
+
+===== PAGE 1 =====
+ 
+Risk Assessment Maturity 
+Roadmap - DRAFT 
+July 16, 2026  
+ 
+     
+ 
+                      
+                  
+                      
+               
+                        
+                  
+                    
+                      
+             
+                  
+              
+               
+                   
+ 
+ 
+
+
+===== PAGE 2 =====
+  
+ 
+Risk Assessment Maturity Roadmap  
+Contents 
+                                 ................................................................................  
+        .................................................................................................................. 1 
+Q          G     ....................................................................................................... 3 
+                            ................................................................................... 5 
+                    ........................................................................................... 8 
+U           .......................................................................................................... 12 
+B            f                      ........................................................................ 15 
+             q       ........................................................................................ 19 
+            q       .......................................................................................... 22 
+           U    ................................................................................................ 24 
+                                       ................................................................. 28 
+ 
+Figures 
+ i     1-B id i          I v         &     N x -G      i   C    q       S l  i   2 
+ i     2 - P        l             d ............................................................................ 3 
+ i     3 - I l  d v . C     l  l  d Ri   A          M    d  ...................................... 6 
+ i     4 - Ri   A          M    d l    R  d  p ..................................................... 7 
+ i     5 - C  p    i   M    d  P        l        .................................................. 10 
+ i     6 -                 &                     ................................................ 11 
+ i     7 -  l xibl , Cl  d-N  iv  A   i        ............................................................ 11 
+ i     8 - U      i    P        l        ................................................................... 13 
+ i     9  -  D     i i  i  v . P  b bili  i  App        ............................................... 14 
+ i     10 - B ildi   & I f            I v       P        l        .............................. 17 
+ i     11 - B ildi     d I f            I v       ........................................................ 18 
+ i     12 - C     l C    q       P        l        ............................................... 20 
+ i     13 - C  p   d  l  di   ................................................................................. 21 
+ i     14 - I p        I l  d C    q       M    d l    ........................................ 23 
+ i     15 - D          U    P        l        ....................................................... 26 
+ i     16 - BCA T  l i  I       i   .............................................................................. 27 
+
+
+===== PAGE 3 =====
+   
+ 
+Tables  
+T bl  1 - S      ld   D    ip i    .............................................................................. 4 
+T bl  2 - SOP N  d  D    ip i    ................................................................................ 4 
+T bl  3 - C  p    i   M    d : C  pl   d Mil        .............................................. 9 
+T bl  4 - U      i   : C  pl   d Mil        ............................................................. 12 
+T bl  5 – B ildi     d I f            I v      : C  pl   d Mil        ..................... 16 
+T bl  6 - C     l C    q      : C  pl   d Mil        ........................................... 19 
+T bl  7 - I l  d C    q      : C  pl   d Mil        ............................................. 22 
+T bl  8 - D          U   : C  pl   d Mil        .................................................. 25 
+List of Acronyms  
+    
+                    
+   
+    fi                  
+    
+                             f    
+   G       
+E       G      f                 G     f      
+B   
+B   fi                
+B    
+B   fi                               
+      
+           b b                              
+    
+                      
+ E   
+        E                           
+  H 
+            H      
+     
+        f                 
+ H  
+      H z          
+     
+                          
+HE      
+H          E                  –                       
+H     
+H          f                                  
+ B  
+              B             
+     
+                                         
+     
+                                 
+
+
+===== PAGE 4 =====
+    
+ 
+     
+                               
+ H    
+         H z                            
+    
+                             
+O   H z   
+O                           f H z                 
+     
+   b b                              
+    
+                                   
+Q  
+Q                 
+ O  
+                     
+     
+     ,      ,    b  ,                 
+ O  
+         O                   
+    
+                  
+U   E 
+U                         f E         
+ 
+Disclaimers 
+                                                       f                        
+           f    f                   .  
+                                                          fi                  (  )          
+                    b              f           ,        ,                                 
+       . 
+ 
+
+
+===== PAGE 5 =====
+                                 –        
+J    16, 2026 
+1 
+ 
+Summary  
+                           f   f                                                   f 
+ E  '                                                      ,             ,     
+               b                                                   f                 (    )    
+         f  E  ’                                                  .                    
+               : 
+• 
+                             .  
+• 
+                      z                          f       .  
+• 
+E      ,      ,              z          ,   b      ,                f         .  
+• 
+      f  f                         x                    b       .  
+            ,        ff     b         x                      b                 b             
+ E  '    x                       q                        (     i     1). G           
+    b        E       U   E        fi                     x                           , 
+    f                                      ,  x     b  ,        ,                 ,     
+            ,                 z                        . 
+                     z            x                    : 
+• 
+                     
+• 
+U            
+• 
+B              f                       
+• 
+             q        
+• 
+            q        
+• 
+           U     
+                                        fi      f                   q                  
+                   j                                ,         b       fi                 b  
+                                              ,                               
+                   ,            ,            ,                         . 
+                                          f                       b                    
+                                            f          f                    
+              .                                           bj       f             b          
+        z      b  f                   . 
+
+
+===== PAGE 6 =====
+                                 –        
+ 
+ 
+ 
+J    16, 2026 
+2 
+ 
+ 
+ i     1 - B id i          I v         &     N x -G      i   C    q       S l  i   
+
+
+===== PAGE 7 =====
+                                 –        
+J    16, 2026 
+3 
+ 
+QuickStart Guide  
+Process Flowchart Legend 
+                           b              f                    x            
+     q      . E                        b   f              f                        
+                                                  f     ( i     2).            
+             (T bl  1)       q                                   ( O )         (T bl  2) 
+               fi   f            .  
+B                ,             bj                                                    z  
+                                        b                 .                        
+                        q      f        b     ,          b   x                          
+           . 
+ 
+ 
+ i     2 - P        l             d 
+ 
+ 
+     1 
+       
+ x    i   
+ B    d 
+     1  
+     1 
+ S        
+
+
+===== PAGE 8 =====
+                                 –        
+J    16, 2026 
+4 
+ 
+ 
+Abb  vi  i    
+D    ip i   
+BCA 
+Benefit-Cost Analysis team(s) and stakeholders 
+Cloud 
+FFRD Cloud Computing team(s) 
+Coastal  
+FEMA Coastal team(s) 
+Consequences 
+Consequence Solution team(s) and stakeholders 
+NFIP Actuaries 
+NFIP Actuarial stakeholders 
+NHRAP 
+National Hazard Risk Assessment Program team 
+USACE 
+United States Army Corps of Engineers stakeholders 
+T bl  1 - S      ld   D    ip i    
+_______________________________________________________________________________________________________________________________ 
+ 
+Abb  vi  i    
+D    ip i   
+Baseline 
+Convergence Criteria 
+Determine appropriate Monte Carlo convergence criteria references to include 
+in the SOP 
+Coastal Method 
+Update 
+Update the coastal loss methods to be followed in the SOP  
+Data Model Update 
+Update references to the proper data model or schema to be followed in the SOP 
+DDF Alignment 
+Update references to the DDF libraries to be used in the SOP 
+Default Assumptions 
+Provide default assumptions in the SOP 
+Describe Methods 
+Specify the methods to be followed in the SOP 
+Mapping Scheme 
+Update 
+Update references to prescribed mapping schemes to be used in the SOP 
+Tiered Screening 
+Guidance 
+Specify the screening criteria to be used to determine areas of additional 
+compound flooding detail needs in the SOP 
+T bl  2 - SOP N  d  D    ip i    
+
+
+===== PAGE 9 =====
+                                 –        
+J    16, 2026 
+5 
+ 
+Risk Assessment Workstreams  
+ i     3                             f                             q            ,       
+                            ff  .         z         f                          ff      
+                        b              ,                                     f         
+             .                      f                                               
+f                                     ( . .      =     ).  i     4                       
+                                                                            b    
+                      z      b          .
+
+
+===== PAGE 10 =====
+                                 –        
+ 
+ 
+ 
+J    16, 2026 
+6 
+ 
+ 
+ i     3 - I l  d v . C     l  l  d Ri   A          M    d 
+
+
+===== PAGE 11 =====
+                                 –        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+J    16, 2026 
+7 
+ 
+ 
+ 
+ i     4 - Ri   A          M    d l    R  d  p 
+
+
+===== PAGE 12 =====
+                                 –        
+J    16, 2026 
+8 
+ 
+                    
+Work To-Date 
+             f        (   )                                b           fi            
+                 T bl  3 , b           f             E                   x            
+b      ,            ,                 f       b   f        .          ff                  
+ E   B   fi                               (B   )                                     
+            , f        b                   f            f     ,       f     ,            
+                                                  b b                              . 
+  b  q          f                                        ,              
+                    b    ,         b                 f    b          f        
+                                       fi  b              fi                    
+f               .         ff                 z                           f       
+                                                       , H              b          , 
+    O   H z         b      ,                                                  
+           ,                                 f        ,                            b     
+f                             . 
+Proposed Work 
+                      z       q                        b                f    
+                                                     b                        ,         
+f                   b                                        z                 (    
+ i     5,  i     6,      i     7).                                          q      
+                                                ,                      
+          z     ,                            f                      ,       x b      f   
+f                  .     f                 b          b      x                   
+                        f  q      b                        . B                    
+                               ,                                                   b      
+    b       b                              q                      .   b  q      ff     
+                     b                                     f       ,                      
+b                   ,                                                       f            
+        f                    fi                    . 
+
+
+===== PAGE 13 =====
+                                 –        
+J    16, 2026 
+9 
+ 
+T bl  3 - C  p    i   M    d : C  pl   d Mil        
+Mil       
+     
+D         i   
+Initial Hazus DDF Library Development:  
+Initial Hazus damage function library development and testing 
+incorporating available FIA, USACE and FEMA DDFs 
+Pre- 2010 
+Hazus Archived 
+Documentation  
+BCAR Updates:  
+FEMA BCAR updates to Residential DDFs and Guidance for 
+Coastal Flooding incorporated 
+2017 
+BCAR Flood Methodology-
+Updated Coastal DDFs 
+ 
+Coastal DDF Development:  
+Development of Single-Family Residential DDFs for Coastal 
+Probabilistic Flood Risk Assessment (CPFRA) 
+2020 
+Coastal DDFs Report 
+ 
+New and Expanded DDFs:  
+Development of Multi-Family Low-Rise and Mid-Rise 
+Residential DDFs for CPFRA. Expanded Single-Family 
+Residential DDFs for Inland Probabilistic Flood Risk 
+Assessment (PFRA) 
+2021 
+Coastal Multi-Family DDFs 
+ 
+2021 Inland Single Family 
+Residential DDF Report 
+DDF Uncertainty Methods Review:  
+Review of existing approaches and recommendations 
+2023 
+U                       
+ 
+DDF Library & Damage Function Assignment:  
+Initial development of comprehensive DDF Library and 
+propose new damage function assignment using flood-specific 
+building types and revised foundation types 
+2024 
+OpenHazus Supporting 
+Research Report –      1 
+   . 3 
+Validation Against Flood Insurance Claims Data:  
+Exploration of Damage Functions with strong findings 
+supporting new PFRA riverine functions and mixed results 
+related to coastal claims data issues 
+2024 
+                       
+     Ex          f   
+                 
+ 
+Validation of OpenHazus DDF library:  
+Recommendations provided with a focus on internal 
+consistency. DDF validation performed, leveraging detailed 
+Hurricane Ian observations and claims data 
+2025 
+DDF Validation Report 
+Testing of OpenHazus DDF library:  
+Performed using Duwamish FFRD data and finalization of 
+library based on findings 
+2026 
+Inland Consequence Tool 
+Report - Task 5 Sec. 8 
+
+
+===== PAGE 14 =====
+                                 –        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+J    16, 2026 
+10 
+ 
+ 
+ i     5 - C  p    i   M    d  P        l       
+
+
+===== PAGE 15 =====
+                                 –        
+J    16, 2026 
+11 
+ 
+ 
+ i     6 -                 &                     
+ 
+ 
+ i     7 -  l xibl , Cl  d-N  iv  A   i        
+                      
+                  
+                      
+               
+                        
+                  
+                    
+                      
+             
+                  
+              
+               
+                   
+ l xibl  Cl  d A   i       
+            b     
+       
+ b                   
+                      
+         
+             b     
+         
+     b  ,       ,        , 
+                
+
+
+===== PAGE 16 =====
+                                 –        
+J    16, 2026 
+12 
+ 
+U           
+Work To-Date 
+       ff                                             b                      b   q     f  
+                        q                  f                  (T bl  4).            
+    b    f                f                f            ,            q     f      ,     
+                        f                                   .                              
+                                                             f   f       fi    z    
+                                      f                                      .  
+Proposed Work 
+                                                             fi    z                  
+  f          fi                                     f           ff                         
+              ( i     8      i     9 .  U                          b    x b             
+       b                                 b b                     O             f       
+                         f        .                                   f     
+                        f                              O                               
+      H                                    . 
+T bl  4 - U      i   : C  pl   d Mil        
+Mil       
+     
+D         i   
+Hazard Uncertainty Methods:  
+Discuss hazard data availability from FFRD and methods of 
+constructing FHCs 
+2024 
+O   H z              
+                1 
+Computational Uncertainty Methods:  
+Review existing tools and how parameterization is structured 
+2024 
+O   H z              
+                2 
+Built Environment Methods:  
+Investigate deriving foundation type and FFH from real-world datasets 
+2024 
+O   H z              
+                3 
+Coastal Uncertainty Methods:  
+Develop wave- and SWL-based computation for probabilistic loss 
+2025 
+                 
+                 
+Mitigation Uncertainty Methods:  
+Compare varying discount rate and distributional weighting 
+assumptions 
+2025 
+O   H z              
+                4 
+DDF & Spatial Uncertainty Analysis:  
+Test DDF and footprint methods with pilot in the Duwamish 
+2025 
+O   H z              
+                1 
+Built Environment Uncertainty Analysis: 
+ Test foundation type and FFH methods with pilot in the Duwamish 
+2025 
+O   H z              
+                2 
+Global Sensitivity Analysis:  
+Test impact of interaction effects on overall loss with pilot in the 
+Duwamish 
+2025 
+O   H z              
+                3 
+Probabilistic Output Needs:  
+Identify how stakeholder needs and remaining gaps can inform next 
+steps 
+2026 
+O   H z              
+                4 
+
+
+===== PAGE 17 =====
+                                 –        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+J    16, 2026 
+13 
+ 
+ 
+ 
+ i     8 - U      i    P        l       
+
+
+===== PAGE 18 =====
+                                 –        
+ 
+ 
+ 
+J    16, 2026 
+14 
+ 
+ i     9  -  D     i i  i  v . P  b bili  i  App        
+ 
+
+
+===== PAGE 19 =====
+                                 –        
+J    16, 2026 
+15 
+ 
+B            f                      
+Work To-Date 
+    H z                               f   fi           fi     b              f            
+               f                  ,          f            (T bl  5).                ,      
+            fi                b    f                    fi                               
+                                q     f        b                            .  U       
+                                   ,                     f        f        ,           
+         z                                           ,                                 
+                        f                  fi        b f    f                  
+          .    
+Proposed Work 
+                                                                                    b  
+ ff                  b                                             f         f        
+( i     10      i     11).                                                   f              
+b             b         fi    z                                                       
+                   b                         f             .                           
+         x     b      f                   fi       ( . . b                       ), 3  b        , 
+    f         b             ,             x               b      f              f           
+                               . 
+ 
+
+
+===== PAGE 20 =====
+                                 –        
+J    16, 2026 
+16 
+ 
+ 
+T bl  5 – B ildi     d I f            I v      : C  pl   d Mil        
+Mil       
+     
+D         i   
+Early Hazus Data Sources: Aggregated building data from Census 
+and commercial sources are provided supporting losses at Census 
+block and tract levels 
+Pre-2011 
+Hazus Archived 
+Documentation 
+HIFLD Incorporation: Hazus’ partnership with the HIFLD provides 
+nationwide, updated infrastructure layers, supporting site-specific 
+analysis, specific infrastructure damage functions are limited 
+Pre-2011 
+Hazus Archived 
+Documentation 
+Hazus 6.0: Migration from aggregated to site-specific building 
+inventory (NSI). Includes full replacement costs and modifications 
+to multi-family and building heights 
+2022 
+Hazus Archived 
+Documentation 
+Hazus 6.1: Enhanced NSI-based dataset now includes fields 
+representative of IBC era construction 
+2023 
+Hazus Archived 
+Documentation 
+Hazus 7.0: Initial migration to ArcGIS Pro using aggregated 
+enhanced NSI. Updates to foundation and height distributions 
+based on observed data   
+2024 
+Hazus 
+Documentation 
+Uncertainty Approaches: Prototype approaches to assess, quantify, 
+and reduce building attribution uncertainties (e.g., foundation type 
+and height), and establish criteria for identifying anomalies 
+2025 
+NSI 2026 Release: Updated replacement cost methodology, 
+integration of parcel data, improved alignment with building 
+footprints, modernized file types and expanded to 134 million 
+structures    
+2026 
+ 
+
+
+===== PAGE 21 =====
+                                 –        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+J    16, 2026 
+17 
+ 
+ 
+ i     10 - B ildi   & I f            I v       P        l        
+
+
+===== PAGE 22 =====
+                                 –        
+ 
+ 
+ 
+J    16, 2026 
+18 
+ 
+ 
+ i     11 - B ildi     d I f            I v      
+R p  d  ibl 
+M d l  
+ =  = 
+              
+B        
+              
+U        
+ 
+          
+G       
+I p  v bl 
+            q     
+H z  
+                
+    
+B  
+ = 
+ 
+D      d l        f            fi        
+                  b              
+ 
+C  p          b                  
+                             
+ 
+    i  i                  i         
+          f                       
+ 
+  v l   f d   il    i v         p   
+    b        f   f          b       
+C  p      
+P         
+Di   ib  i   
+ 
+Cl  d-   iv                   f   
+                                     
+ 
+D               i d-p               
+  f                         x        
+T  l 
+U   
+        q      
+HE     
+     b             
+              f   
+     b             
+                  
+  v l  f D   il Op i   
+ x   dibl  S   d  d 
+
+
+===== PAGE 23 =====
+                                 –        
+J    16, 2026 
+19 
+ 
+             q       
+Work To-Date 
+                      f                                               f     
+             f                                      ,                           (T bl  6). 
+                                                                             q            
+    f         fi                                         ,                              
+       ,                               f                                   .        
+ ff             fi    z                                                                f     
+                        f         f                                  b                 
+     f                .    
+Proposed Work 
+                                                                     fi            
+                b                                                                   b  
+                                              f                               b    
+    b       ( i     12      i     13).                                        f          
+                                    fi                          ,          f          
+                 .                                    b          b                        
+                                     z                      f                      
+                             . 
+T bl  6 - C     l C    q      : C  pl   d Mil        
+Mil       
+     
+D         i   
+Coastal Loss R Tool:  
+Create loss computation with wave and SWL uncertainty and 
+node interpolation 
+2024 
+Coastal FFRD AAL 
+Calculation Tool 
+Evaluate Coastal DDFs:  
+Evaluate libraries of DDFs and assess DDFs by occupancy, 
+wave height, etc. 
+2024 
+OpenHazus Supporting 
+Research - Task 1 
+Recommend Coastal DDFs:  
+Define mapping schemes for use by flood specific building 
+types 
+2025 
+OpenHazus Supporting 
+Research - Task 1 
+Barycentric Interpolation:  
+Identify alternative interpolation method from coastal vector 
+nodes 
+2025 
+Inland Consequence Tool - 
+Task 4 
+Coastal Loss Python Tool:  
+Port capabilities of R tool to the Inland Consequence 
+repository in Python 
+2026 
+Inland Consequence Tool - 
+Task 6 
+Tiered Compound Screening:  
+Propose concept of tiered policy around levels of compound 
+modeling detail 
+2026 
+OpenHazus Supporting 
+Research - Task 4 
+
+
+===== PAGE 24 =====
+                                 –        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+J    16, 2026 
+20 
+ 
+ 
+ i     12 - C     l C    q       P        l       
+
+
+===== PAGE 25 =====
+                                 –         
+ 
+ 
+ 
+J    16, 2026 
+21 
+ 
+ 
+ i     13 - C  p   d  l  di   
+
+
+===== PAGE 26 =====
+                                 –         
+J    16, 2026 
+22 
+ 
+            q       
+Work To-Date 
+            q               f      f                               O               , 
+     fi                                      b      G  H b (T bl  7).        
+     q                                        fi                            ,           
+f                                                                                 
+f                                              z     .              ,                   
+             b                f                                                       
+f   b   ,                              f                             f        .  
+Proposed Work 
+                                                          q      ,        ,       f     
+                                                        z          fi                
+           ( i     14). 
+T bl  7 - I l  d C    q      : C  pl   d Mil        
+Mil       
+     
+D         i   
+Expanded Single Family Inland Flood DDFs:  
+Expand FEMA PFRA DDF approaches from coastal to single 
+family inland flooding  
+2021 
+2021 Inland Single Family 
+Residential DDF Report 
+DDF Validation:  
+Initial investigation of DDF validation from NFIP Claims Data 
+2024 
+2024 NFIP Claims Data 
+Exploration DDFs Report 
+DDF Library & Damage Function Assignment:  
+Initial development of comprehensive DDF Library and 
+propose new damage function assignment using flood-specific 
+building types and revised foundation types 
+2024 
+OpenHazus Supporting 
+Research Report –      1 
+   . 3 
+Evaluate and Recommend DDFs for OpenHazus/FFRD: 
+Evaluate 2024 DDF Library and proposed new damage 
+function assignment for feasibility for application to 
+OpenHazus and FFRD 
+2025 
+2025 DDF Validation Report 
+DDF Validation:  
+Additional investigation potentially updating DDFs from NFIP 
+Claims Data 
+2025 
+OpenHazus Supporting 
+Research - Task 1 
+Pilot test inland flood for FFRD:  
+Test 2024 DDF damage function assignment approach for 
+structure damages for inland flood FFRD prototype for 
+Duwamish, including testing uncertainty approaches 
+2025 
+OpenHazus Supporting 
+Research - Tasks 1, 2, and 3 
+DDF Library and Damage Function Assignment:  
+Updated in Spring 2026 comprehensive DDF Library and 
+damage function assignment approach based on reviewer 
+feedback, including revised contents damage function 
+assignment approach 
+2026 
+Inland Consequence Tool 
+Report - Task 5 Sec. 8 
+
+
+===== PAGE 27 =====
+                                 –         
+ 
+ 
+ 
+J    16, 2026 
+23 
+ 
+ 
+ i     14 - I p        I l  d C    q       M    d l   
+       
+DD  A  i      
+     C l  l  i   
+U      i   
+R   l  
+B ildi     d I f            
+I v      
+ 
+        f                     
+        
+ 
+    2026        b      f   
+ x            
+ 
+                    f          
+           
+ 
+                  f              
+              
+ 
+      f                          
+                               
+                      b    
+ 
+                         
+ 
+   b b             f     H        
+           
+ 
+                       
+         
+ 
+  fi           f   f          
+           b      
+ 
+      z     f           b       f   
+      
+                   f   b        
+            
+    b                         
+     
+
+
+===== PAGE 28 =====
+                                 –         
+J    16, 2026 
+24 
+ 
+           U     
+Work To-Date 
+       ,            U             f                             E           
+     q                                         ,           B  ,                        , 
+                   ,               (T bl  8). E                                      
+                                         ,                                      E  ’  
+              j                    . O                                     ,      
+     ,                f               b     f   f            B        .            
+     q            b              b            f   b    f                ,             
+B                 ,                                   ,             x            q       
+     ,                         b                        f                   .        f  
+                  B                f    b                       ,                      , 
+                       ,               f        ,                x     ,                  
+               E   B        .                                        ,        b      
+    b                         ,                   ,                                   
+                          .  
+Proposed Work 
+                 f         x                   f                                    
+(    ) b       f              z      f                       z        q               
+              E                            ( i     15).                          
+                   f   B                        ,    b                           E   B   
+       ,                         f               b                      ( i     16). 
+        ff                                        2.0              ,       ,                 
+    b          b                                    .             ,                
+               '            f                    f             f        ,            
+                  ,                                ,                               
+        ,       ,       f                   . 
+ 
+ 
+
+
+===== PAGE 29 =====
+                                 –         
+J    16, 2026 
+25 
+ 
+T bl  8 - D          U   : C  pl   d Mil        
+Mil       
+     
+D         i   
+Mitigation Methods: Create methods to cost and compute ROI 
+for common mitigation activities 
+2023 
+FEMA Mitigation Project 
+Designer Loop 
+Mitigation Compute: Recommend compute framework for 
+consequence mitigation wrapper 
+2024 
+FEMA Mitigation Project 
+Designer Loop 
+Fragility-based DDF Review: Assess the state of component-
+level damage methods and input needs 
+2024 
+OpenHazus Supporting 
+Research - Task 2 
+FFRD-NFIP Engagement: Gather stakeholder feedback on 
+FFRD data use cases and application needs 
+2024 
+FFRD Engagement 
+Recommend. Summary 
+FFRD-BCA Engagement: Explore the use of FFRD data within 
+the BCA Toolkit and identify future needs 
+2025 
+FFRD BCA Final Report 
+Consequence Tool Engagement: Gather stakeholder 
+feedback on current tool limitations and requirements 
+2025 
+Inland Consequences Tool 
+– Task 1 
+Consequence Tool Review: Evaluate existing tool capabilities 
+and pros and cons for prototype integration 
+2025 
+Inland Consequences Tool 
+– Task 2 
+Standardized Python Approach: Develop prototype Inland 
+Consequence tool for AAL methods 
+2025 
+Inland Consequences Tool 
+– Task 3  
+Scalable Compute Needs: Identify data standard and cloud 
+compute needs to scale methods 
+2025 
+OpenHazus Supporting 
+Research – Task 4 
+
+
+===== PAGE 30 =====
+                                 –         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+J    16, 2026 
+26 
+ 
+ 
+ i     15 - D          U    P        l       
+
+
+===== PAGE 31 =====
+                                 –         
+ 
+ 
+ 
+J    16, 2026 
+27 
+ 
+ 
+ i     16 - BCA T  l i  I       i  
+
+
+===== PAGE 32 =====
+                                 –         
+J    16, 2026 
+28 
+ 
+Recommended Immediate Start Activities 
+• 
+T   : D v l p d      d l          f   Ri   A           
+o Obj   iv  :  
+▪           b                                                   
+ x       
+▪                                        f        
+o S      ld   :  
+▪        
+o SOP N  d :  
+▪                   
+ 
+• 
+T   : R fi        d        i        i   l di   ib  i   f   f   d  i     p   
+o Obj   iv  :  
+▪           z         f                       f               
+          .  
+▪         f                                                      
+o S      ld   :  
+▪  U   E 
+o SOP N  d :  
+▪    f                 
+ 
+• 
+T   : R   f  q     -b   d AA  f   T i i           d           b   li   f   
+v lid  i     d    p  i     f     l   
+o Obj   iv  :  
+▪          b             q              f                            
+                  
+▪ E                         f                        b                   .  
+▪                                                    f                 
+     fi                 
+o S      ld   :  
+▪         
+o SOP N  d :  
+▪            fi   
+  
