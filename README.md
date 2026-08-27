@@ -91,8 +91,7 @@ pfrl-data-model/
 ├── diagrams/
 │   └── pfrl-erd.mmd           # Mermaid entity-relationship diagram
 ├── docs/
-│   ├── Risk_Assessment_Maturity_Roadmap - DRAFT.pdf   # source roadmap
-│   └── Risk_Assessment_Maturity_Roadmap - DRAFT.txt   # extracted text
+│   └── Risk_Assessment_Maturity_Roadmap - DRAFT.pdf   # source roadmap
 └── LICENSE
 ```
 
@@ -132,16 +131,6 @@ each roadmap concept by the current schema:
 | Coastal (wave / SWL / compound) | 🟡 Partial | `peril_type`, `hazard_links.velocity_grid_uri` / `duration_grid_uri` |
 | Global sensitivity analysis | 🟡 Partial | `run_type = sensitivity` only |
 | Decision uncertainty / BCA | ⚪ Downstream | Out of scope — consumed by BCA tooling |
-
-### Suggested next steps
-
-1. **Convergence diagnostics** — add a table (or `run_catalog` fields) recording achieved
-   Monte Carlo convergence against the SOP's baseline criteria.
-2. **Sensitivity outputs** — a first-class store for global-sensitivity indices, distinct
-   from loss realizations.
-3. **Coastal parameters** — richer wave/SWL and compound-flooding attributes on `events` /
-   `hazard_links` as the Coastal Consequences workstream matures.
-4. **Seed data & migrations** — DDL and example fixtures to stand up a reference database.
 
 ## License
 
