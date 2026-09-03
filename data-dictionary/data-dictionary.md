@@ -1,4 +1,4 @@
-# Probabilistic Flood Risk Loss (PFRL) Data Model — Data Dictionary
+# Risk Quantification Methodology (RQM) Data Model — Data Dictionary
 
 **Version:** 0.1.0 &nbsp;|&nbsp; **Companion:** `fema-ffrd/inland-consequences (SPHERE core schemas)`
 

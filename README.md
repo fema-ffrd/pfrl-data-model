@@ -1,4 +1,4 @@
-# Probabilistic Flood Risk Loss (PFRL) Data Model
+# Risk Quantification Methodology (RQM) Data Model
 
 > Re-architecting deterministic building-loss inputs into first-class, **versioned distribution** objects for probabilistic flood risk assessment.
 
@@ -8,7 +8,7 @@
 
 Traditional flood-loss estimation treats each building input — flood depth, foundation
 type, first-floor height (FFH), and the depth-damage function (DDF) — as a single
-deterministic value. The PFRL data model instead stores each uncertain input as a typed,
+deterministic value. The RQM data model instead stores each uncertain input as a typed,
 versioned **distribution specification**. A sampling engine draws per-realization values
 from those specifications, propagating uncertainty end-to-end into Monte Carlo loss
 ensembles with reproducible provenance.
@@ -74,7 +74,7 @@ source of truth) and rendered to
 
 ### Entity-relationship diagram
 
-The ERD is maintained in [diagrams/pfrl-erd.mmd](diagrams/pfrl-erd.mmd) (Mermaid). It is an
+The ERD is maintained in [diagrams/rqm-erd.mmd](diagrams/rqm-erd.mmd) (Mermaid). It is an
 abridged view — it shows keys and relationships, not every column. Refer to the data
 dictionary for the authoritative column list. GitHub renders `.mmd` files automatically;
 locally you can preview it with any Mermaid-capable viewer.
@@ -82,14 +82,14 @@ locally you can preview it with any Mermaid-capable viewer.
 ## Repository structure
 
 ```
-pfrl-data-model/
+rqm-data-model/
 ├── data-dictionary/
 │   ├── data-dictionary.yaml   # single source of truth (tables, columns, enums, FKs)
 │   ├── data-dictionary.md     # generated — do not edit by hand
 │   ├── preview_dict.py        # validates FKs and renders the Markdown
 │   └── requirements.txt       # generator dependencies (PyYAML)
 ├── diagrams/
-│   └── pfrl-erd.mmd           # Mermaid entity-relationship diagram
+│   └── rqm-erd.mmd            # Mermaid entity-relationship diagram
 ├── docs/
 │   └── Risk_Assessment_Maturity_Roadmap - DRAFT.pdf   # source roadmap
 └── LICENSE
