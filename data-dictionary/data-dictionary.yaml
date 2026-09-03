@@ -1,5 +1,5 @@
 # =============================================================================
-# Probabilistic Flood Risk Loss (PFRL) Data Model — Data Dictionary
+# Risk Quantification Methodology (RQM) Data Model — Data Dictionary
 # -----------------------------------------------------------------------------
 # Re-architects deterministic building-loss inputs (flood depth, foundation
 # type, first-floor height, depth-damage function) into first-class,
@@ -15,7 +15,7 @@
 # =============================================================================
 
 metadata:
-  model_name: Probabilistic Flood Risk Loss (PFRL) Data Model
+  model_name: Risk Quantification Methodology (RQM) Data Model
   version: 0.1.0
   companion_repo: fema-ffrd/inland-consequences (SPHERE core schemas)
   storage_tiers: [postgres, iceberg, icechunk]
